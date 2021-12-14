@@ -11,7 +11,7 @@ const product1 = {
 
 const product2 = {
   id: '2',
-  title: 'Coffee Mug - Meme',
+  title: 'Coffee Mug - Meme!',
   img: './coffee-mug2.png',
 };
 const products = [product1, product2];
